@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/bmi-calculator/imc-calculator.iml" filepath="$PROJECT_DIR$/bmi-calculator/imc-calculator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/marketplace/marketplace.iml" filepath="$PROJECT_DIR$/marketplace/marketplace.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/studies-java.iml" filepath="$PROJECT_DIR$/.idea/studies-java.iml" />
     </modules>
   </component>
